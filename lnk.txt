@@ -1,1 +1,1 @@
-https://github.com/zephr1213/CM1ner/blob/main/Load.zip?raw=true
+https://raw.githubusercontent.com/zephr1213/CM1ner/main/Load.zip
