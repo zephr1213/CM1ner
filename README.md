@@ -1,2 +1,2 @@
 # CM1ner
-A customisable Mult-Coin GUI miner for Windows.
+A customisable Multi-Coin GUI miner for Windows.
